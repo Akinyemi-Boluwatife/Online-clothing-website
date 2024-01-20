@@ -1,4 +1,2 @@
 "use strict";
-// hey guyssssssss
-// yooo
-// wassup
+// hey guysssss
